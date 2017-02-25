@@ -12,7 +12,7 @@
 $(document).ready(function(){
 	if($('#second').height() > $('#first').height()){
 	$('#first').height($('#second').height());
-} else {
+} else if($('#first').height() > $('#second').height()) {
 	$('#second').height($('#first').height());
 }
 });
