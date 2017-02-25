@@ -54,7 +54,7 @@ iframe {
 .contactImage {
   margin-bottom: 10px; }
 
-.borderRow {
-  border: 1 px solid #fff; }
+.borderUp {
+  border-top: 1 px solid #fff; }
 
 /*# sourceMappingURL=style.css.map */
