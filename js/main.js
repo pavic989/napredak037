@@ -11,9 +11,9 @@
 
 $(document).ready(function(){
 	if($('#second').height() > $('#first').height()){
-	$('#first').height($('#second').height());
-} else {
 	$('#second').height($('#first').height());
+} else {
+	$('#first').height($('#second').height());
 }
 });
 
