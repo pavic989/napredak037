@@ -33,3 +33,9 @@ $(document).ready( function(){
   });
 // ============= Slider setting =============
 
+$(document).ready(function(){
+	$('a').click(function(e){
+		e.preventDefault();
+		$("#first").load($(this).attr('href'));
+	});
+});
