@@ -32,3 +32,10 @@ $(document).ready( function(){
     $(".rslides").responsiveSlides();
   });
 // ============= Slider setting =============
+
+$(document).ready(function(){
+       $("#about").click(function(){
+        $('#first').load('../templates/about.html');
+       }); 
+
+   });
