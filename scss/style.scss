@@ -55,7 +55,7 @@ iframe {
 }
 
 
-.imgSpn {
+.spn {
 	width: 150px;
 	height: 150px;
 	border-radius: 50%;
@@ -63,12 +63,8 @@ iframe {
 	margin: auto 20px;
 }
 
-.imgSpn:nth-child(1n + 0){
+.spn:nth-child(1n + 0){
 	margin-bottom: 5px;
 }
 
-.logo {
-	height: 50px;
-	width:  50px;
-	display: inline-block;
-}
+
