@@ -11,9 +11,9 @@
 
 
 if($('#second').height() < $('#first').height()){
-	$("#second").height($("#first").height());
+	$('#second').height($('#first').height());
 } else {
-	$("#first").height($("#second").height());
+	$('#first').height($('#second').height());
 }
 
 
@@ -39,3 +39,5 @@ $(document).ready(function(){
 		$("#first").load($(this).attr('href'));
 	});
 });
+
+// ============= Ajax =============
