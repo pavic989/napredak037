@@ -10,10 +10,10 @@
 // ============= Hover dropdown menu setting =============
 
 
-if($('#second').height() < $('#first').height()){
-	$('#second').height($('#first').height());
-} else {
+if($('#second').height() > $('#first').height()){
 	$('#first').height($('#second').height());
+} else {
+	$('#second').height($('#first').height());
 }
 
 
