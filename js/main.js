@@ -9,13 +9,13 @@
 
 // ============= Hover dropdown menu setting =============
 
-$(document).ready(function(){
-	if($('#second').height() > $('#first').height()){
-	$('#second').height($('#second').height());
-} else if($('#first').height() > $('#second').height()) {
-	$('#first').height($('#first').height());
-}
-});
+// $(document).ready(function(){
+// 	if($('#second').height() > $('#first').height()){
+// 	$('#second').height($('#second').height());
+// } else if($('#first').height() > $('#second').height()) {
+// 	$('#first').height($('#first').height());
+// }
+// });
 
 
 
