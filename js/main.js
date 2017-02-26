@@ -24,7 +24,7 @@
 
 $(document).ready( function(){
 	$('.navbar-toggle').on('click', function(){
-		$(this).toggleClass('open');
+		$('.navbar-toggle').toggleClass('open');
 	});
 
 	})
@@ -40,7 +40,6 @@ $(document).ready(function(){
 	$('li a').click(function(e){
 		e.preventDefault();
 		$("#first").load($(this).attr('href'));
-		 $("#navigation .open").fadeOut();
 	});
 });
 
