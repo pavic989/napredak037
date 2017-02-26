@@ -2,7 +2,11 @@
 @media screen and (max-width: 480px) {
   .contactImage {
     width: 80px;
-    height: 80px; } }
+    height: 80px; }
+
+  #googleMap {
+    width: 350px;
+    height: 250px; } }
 body {
   background: silver; }
   body h1, body h2, body p {
