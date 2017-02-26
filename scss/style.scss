@@ -1,7 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Mada');
+@media screen and (max-width: 480px) {
+    .contactImage {
+    	width: 80px;
+    	height: 80px;
+    }
+}
 body {
 	background: silver;
-	h1, p {
+	h1, h2, p {
 		font-family: 'Mada', sans-serif; 
 	}
 }
