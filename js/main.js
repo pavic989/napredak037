@@ -40,7 +40,7 @@ $(document).ready(function(){
 	$('li a').click(function(e){
 		e.preventDefault();
 		$("#first").load($(this).attr('href'));
-		 $(".navigation .open").fadeOut();
+		 $("#navigation .open").fadeOut();
 	});
 });
 
