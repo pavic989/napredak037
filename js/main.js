@@ -23,8 +23,8 @@
 
 
 $(document).ready( function(){
-	$('.navbar-toggle').on('click', function(){
-		$('.navbar-toggle').toggleClass('open');
+	$('.navbar-toggle li').on('click', function(){
+		$('.navbar-toggle li').toggleClass('open');
 	});
 
 	})
