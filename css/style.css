@@ -26,13 +26,12 @@ body {
   margin-top: 5px; }
 
 #googleMap {
-  margin-top: 5px; }
+  margin-top: 10px; }
 
 #first {
   background: silver;
   margin-top: 5px;
-  border-right: 1px solid #fff;
-  padding: 5; }
+  border-right: 1px solid #fff; }
 
 #second {
   background: silver;
