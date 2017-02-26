@@ -1,5 +1,8 @@
+@import url("https://fonts.googleapis.com/css?family=Mada");
 body {
   background: silver; }
+  body h1, body p {
+    font-family: 'Mada', sans-serif; }
 
 .navbar {
   margin-bottom: 5px; }
