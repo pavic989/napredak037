@@ -29,7 +29,7 @@ body {
   margin-top: 10px; }
 
 #first {
-  background: silver;
+  background: url(../img/background.png) center center no-repeat;
   margin-top: 5px;
   border-right: 1px solid #fff; }
 
