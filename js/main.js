@@ -24,7 +24,7 @@
 
 $(document).ready( function(){
 	$('.navbar-toggle').on('click', function(){
-		$('.navbar-toggle').toggleClass('open');
+		$(this).toggleClass('open');
 	});
 
 	})
