@@ -80,4 +80,8 @@ iframe {
   float: right;
   width: 100px; }
 
+.aboutText {
+  font-weight: bold;
+  line-height: 2; }
+
 /*# sourceMappingURL=style.css.map */
