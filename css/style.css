@@ -19,6 +19,9 @@ body {
   padding: 0;
   height: 10%; }
 
+#face {
+  margin-top: 5px; }
+
 #first {
   background: silver;
   margin-top: 5px;
