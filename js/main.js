@@ -22,12 +22,12 @@
 // ============= Sections equal height setting =============
 
 
-$(document).ready( function(){
-	$('.navbar-toggle').on('click', function(){
-		$(this).toggleClass('open');
-	});
+// $(document).ready( function(){
+// 	$('.navbar-toggle').on('click', function(){
+// 		$(this).toggleClass('open');
+// 	});
 
-	})
+// 	})
 
 // ============= Animating burger button =============
 
