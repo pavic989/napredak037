@@ -9,7 +9,10 @@
     height: 250px; }
 
   .marginTop {
-    margin-top: 0; } }
+    margin-top: 0; }
+
+  .rslides {
+    height: auto; } }
 body {
   background: silver; }
   body h1, body h2, body p {
@@ -105,5 +108,8 @@ iframe {
 
 .imgMargin {
   margin: 5px; }
+
+.rslides {
+  height: 250px; }
 
 /*# sourceMappingURL=style.css.map */

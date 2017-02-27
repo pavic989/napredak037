@@ -13,6 +13,10 @@
     .marginTop{
     	margin-top: 0;
     }
+
+    .rslides {
+    	height: auto;
+    }
 }
 body {
 	background: silver;
@@ -138,4 +142,8 @@ iframe {
 
 .imgMargin {
 	margin: 5px;
+}
+
+.rslides {
+	height: 250px;
 }
