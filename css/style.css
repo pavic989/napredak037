@@ -11,7 +11,7 @@
   .marginTop {
     margin-top: 0; }
 
-  .rslides {
+  .rslides img {
     height: auto; } }
 body {
   background: silver; }
@@ -109,7 +109,7 @@ iframe {
 .imgMargin {
   margin: 5px; }
 
-.rslides {
+.rslides img {
   height: 250px; }
 
 /*# sourceMappingURL=style.css.map */

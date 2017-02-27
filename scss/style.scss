@@ -15,7 +15,9 @@
     }
 
     .rslides {
-    	height: auto;
+    	img{
+    		height: auto;
+    	}
     }
 }
 body {
@@ -145,5 +147,7 @@ iframe {
 }
 
 .rslides {
-	height: 250px;
+	img {
+		height: 250px;
+	}
 }
