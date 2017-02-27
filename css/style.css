@@ -68,9 +68,7 @@ iframe {
 
 .spn {
   width: 80px;
-  height: 80px;
-  float: left;
-  margin: auto 20px; }
+  height: 80px; }
 
 .spn:nth-child(1n + 0) {
   margin-bottom: 5px; }
