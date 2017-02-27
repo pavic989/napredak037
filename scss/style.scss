@@ -115,6 +115,10 @@ iframe {
 }
 
 .imgSmall {
-	width: 30px;
-	height: 30px;
+	width: 60px;
+	height: 60px;
+}
+
+.table>tbody>tr>td {
+	vertical-align: middle;
 }
