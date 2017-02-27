@@ -29,6 +29,9 @@
 
 // 	})
 
+	$('.nav a').on('click', function() {
+    $('.navbar-collapse').collapse('hide');
+});
 // ============= Animating burger button =============
 
   $(function() {
