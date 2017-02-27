@@ -68,7 +68,8 @@ iframe {
 
 .spn {
   width: 80px;
-  height: 80px; }
+  height: 80px;
+  margin: 5px; }
 
 .spn:nth-child(1n + 0) {
   margin-bottom: 5px; }
@@ -102,7 +103,7 @@ iframe {
 .marginTop {
   margin-top: 35px; }
 
-img {
+.imgMargin {
   margin: 5px; }
 
 /*# sourceMappingURL=style.css.map */
