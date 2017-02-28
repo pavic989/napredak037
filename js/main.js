@@ -29,8 +29,10 @@
 
 // 	})
 
-	$('.nav a').on('click', function() {
-    $('.navbar-collapse').collapse('hide');
+	 $(document).on('click', '.navbar-collapse.in', function (e) {
+    if ($(e.target).is('a')) {
+        $(this).collapse('hide');
+    }
 });
 // ============= Animating burger button =============
 
