@@ -44,7 +44,8 @@ body {
 
 #second {
   background: silver;
-  margin-top: 5px; }
+  margin-top: 5px;
+  text-align: center; }
 
 .navbar-toggle span {
   position: relative;
