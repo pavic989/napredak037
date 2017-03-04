@@ -44,7 +44,7 @@
 $(document).ready(function(){
 	$('li a').click(function(e){
 		e.preventDefault();
-		$("#first").load($(this).attr('href'));
+		$("#first").load($(this).attr('href')).hide().fadeIn('slow');
 	});
 });
 
